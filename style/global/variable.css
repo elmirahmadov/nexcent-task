@@ -1,0 +1,32 @@
+:root {
+  /* Background Color */
+  --maincolor: #4caf4f;
+
+  /* Textcolor */
+  --textcolor-1: #263238;
+  --textcolor-2: #18191f;
+  --textcolor-3: #4d4d4d;
+  --textcolor-4: #717171;
+  --textcolor-5: #ffffff;
+  /* Text Size */
+}
+
+.tc-1 {
+  color: var(--textcolor-1);
+}
+.tc-2 {
+  color: var(--textcolor-2);
+}
+.tc-3 {
+  color: var(--textcolor-3);
+}
+.tc-4 {
+  color: var(--textcolor-4);
+}
+.tc-15 {
+  color: var(--textcolor-5);
+}
+
+.bgc-1 {
+  background-color: var(--maincolor);
+}

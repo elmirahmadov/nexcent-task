@@ -1,0 +1,10 @@
+/* GENERAL */
+@import url("./reset.css");
+@import url("./variable.css");
+@import url("/style/main/footer/footer.css");
+@import url("/style/main/header/header.css");
+@import url("/style/main/home/home.css");
+
+* {
+  box-sizing: border-box;
+}
